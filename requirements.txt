@@ -1,0 +1,7 @@
+alibabacloud-ocr_api20210707
+alibabacloud-tea-openapi
+alibabacloud-tea-util
+dashscope
+pydantic
+python-dotenv
+pytest
