@@ -1,5 +1,6 @@
 """Pydantic schemas for normalized OCR responses."""
 
+
 from typing import Literal
 
 from pydantic import BaseModel

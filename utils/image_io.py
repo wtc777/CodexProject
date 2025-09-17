@@ -1,5 +1,6 @@
 """Utility helpers for working with input images."""
 
+
 import base64
 from pathlib import Path
 

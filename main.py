@@ -1,5 +1,6 @@
 """Command-line interface for comparing OCR backends."""
 
+
 import argparse
 import json
 import logging

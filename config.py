@@ -1,5 +1,6 @@
 """Application configuration management for OCR CLI."""
 
+
 import logging
 import os
 from dataclasses import dataclass

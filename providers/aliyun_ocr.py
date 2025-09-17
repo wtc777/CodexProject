@@ -1,5 +1,6 @@
 """Aliyun OCR provider implementation."""
 
+
 import logging
 import time
 from dataclasses import dataclass
