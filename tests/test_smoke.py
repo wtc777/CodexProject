@@ -1,5 +1,5 @@
 """Smoke tests for OCR CLI scaffolding."""
-from __future__ import annotations
+
 
 from main import parse_arguments
 from schemas import OcrResult, OcrTextSpan

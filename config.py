@@ -1,5 +1,5 @@
 """Application configuration management for OCR CLI."""
-from __future__ import annotations
+
 
 import logging
 import os

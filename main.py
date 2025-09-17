@@ -1,5 +1,5 @@
 """Command-line interface for comparing OCR backends."""
-from __future__ import annotations
+
 
 import argparse
 import json

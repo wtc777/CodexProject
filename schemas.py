@@ -1,5 +1,5 @@
 """Pydantic schemas for normalized OCR responses."""
-from __future__ import annotations
+
 
 from typing import Literal
 

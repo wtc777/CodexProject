@@ -1,5 +1,5 @@
 """Utility helpers for working with input images."""
-from __future__ import annotations
+
 
 import base64
 from pathlib import Path

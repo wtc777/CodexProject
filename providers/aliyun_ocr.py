@@ -1,5 +1,5 @@
 """Aliyun OCR provider implementation."""
-from __future__ import annotations
+
 
 import logging
 import time
